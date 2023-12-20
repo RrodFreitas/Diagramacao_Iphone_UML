@@ -1,5 +1,3 @@
-# Diagramacao_Iphone_UML
-
 ## CODE CHALLENGE #3 - Diagramação Iphone UML
 
 # DIO - Trilha Java Básico
